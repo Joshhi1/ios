@@ -1,0 +1,7 @@
+services:
+  - type: static_site
+    name: nicoai
+    env: static
+    buildCommand: npm install
+    publishDir: .  # Change this to your directory if needed
+    autoDeploy: true

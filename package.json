@@ -1,0 +1,19 @@
+{
+  "name": "nicoai",
+  "version": "1.0.0",
+  "description": "An Ai assistant for less intellectual hassle",
+  "main": "ai.html",
+  "scripts": {
+    "start": "live-server ."
+  },
+  "keywords": [
+    "AI",
+    "web",
+    "NicoAi"
+  ],
+  "author": "Amiel Nico Diosa",
+  "license": "MIT",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
+}
